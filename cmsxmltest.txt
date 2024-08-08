@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <Category>Vapes</Category>
+    <Product>Kiva</Product>
+    <Calories></Calories>
+    <Pricing>$35.00</Pricing>
+    <Image-Image></Image-Image>
+    <Discount>20%</Discount>
+    <Bundle Price>$60.00</Bundle Price>
+  </row>
+  <row>
+    <Category>Flower</Category>
+    <Product>Kynd</Product>
+    <Calories></Calories>
+    <Pricing>$25.00</Pricing>
+    <Image-Image></Image-Image>
+    <Discount>20%</Discount>
+    <Bundle Price>$60.00</Bundle Price>
+  </row>
+  <row>
+    <Category>Drops</Category>
+    <Product>Dank</Product>
+    <Calories></Calories>
+    <Pricing>$15.00</Pricing>
+    <Image-Image></Image-Image>
+    <Discount>20%</Discount>
+    <Bundle Price>$60.00</Bundle Price>
+  </row>
+</root>
