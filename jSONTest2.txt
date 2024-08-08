@@ -1,0 +1,29 @@
+[
+  {
+    "Category": "Vapes",
+    "Product": "Kiva",
+    "Calories": "",
+    "Pricing": "$35.00",
+    "Image-Image": "",
+    "Discount": "20%",
+    "Bundle Price": "$60.00"
+  },
+  {
+    "Category": "Flower",
+    "Product": "Kynd",
+    "Calories": "",
+    "Pricing": "$25.00",
+    "Image-Image": "",
+    "Discount": "20%",
+    "Bundle Price": "$60.00"
+  },
+  {
+    "Category": "Drops",
+    "Product": "Dank",
+    "Calories": "",
+    "Pricing": "$15.00",
+    "Image-Image": "",
+    "Discount": "20%",
+    "Bundle Price": "$60.00"
+  }
+]
