@@ -1,2 +1,7 @@
 name: My Site
 theme: minima
+plugins:
+  - jekyll-feed
+title: OGRSSTEST
+description: OGRSSTEST
+author: SRYALS
